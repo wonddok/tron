@@ -1,7 +1,7 @@
 # HuanyuTRX_bot 自助兑币机/能量租赁/会员代开
 
 ### 波场TRON能量租赁机器人、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api，地址激活，能量速充，飞机会员，飞机会员api>，rent tron energy，energy rent。
-### [查U机器人](https://t.me/chaqian_bot)，[监听机器人](https://t.me/Xfjtserver_bot)，[记账机器人](https://t.me/jizhang_free88_bot)，[代付机器人](https://t.me/queryxforder_bot)欢迎定制
+### [查U机器人](https://t.me/chaqian_bot)，[监听机器人](https://t.me/Xfjtserver_bot)，[记账机器人](https://t.me/jizhang_free88_bot)，[代付机器人](https://t.me/ttwwsbot)欢迎定制
 ### [TG号铺](https://t.me/huanyuTG_bot),[Whatsapp号铺]号码购买,独立售号机器人代理
 ### [联系人客服](https://t.me/Double1x)
 
