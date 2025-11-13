@@ -16,7 +16,7 @@
 <img src="https://github.com/wonddok/tron/blob/main/trx.jpg" width="35%">
 
 ### 🔥 [能量转租，自己收款地址，自定义价格]
-* 能量转租/会员代开，有服务器请自行部署机器人，诚招代理 👉 ([联系客服](https://t.me/pay_pop)) 。
+* 能量转租/会员代开，有服务器请自行部署机器人，诚招代理 👉 ([联系客服](https://t.me/Double1x)) 。
 * 无服务器需要托管地址可 👉 [自助开通 ](https://t.me/HuanyuTRX_bot)。
 ### 🔋 笔数租赁
 ➡️  购买笔数后无需担心转账扣除手续费，转账更方便快捷
